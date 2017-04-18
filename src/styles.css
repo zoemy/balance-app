@@ -1,0 +1,65 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
+body {
+    /*padding: 2em 23em;
+    background:gray;*/
+    margin:0;
+}
+
+.spacer {
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+}
+
+.red-color {
+    color:red;
+}
+
+.md-slider-horizontal {
+    width:100%;
+}
+
+label {
+    font-weight:bold;
+    margin:1.5em 0;
+    display:block;
+}
+
+#page-padding {
+    /*padding: 0 1.5em 1.5em 1.5em;*/
+    padding:1.5em 1.5em 1.5em;
+}
+.mat-tab-label {
+  min-width: 1px !important;
+}
+
+/*.mat-tab-group {
+        display: flex;
+        flex-direction: column;
+}
+.mat-tabs-body {
+        display: flex;
+        flex: 1;
+        flex-direction: column;
+}
+.mat-tab-body {
+        display: flex;
+        flex-direction: row;
+        flex: 1;
+}*/
+
+ /*md-tabs {
+        display: flex;
+        flex-direction: column;
+      }
+      .md-tabs-content {
+        display: flex;
+        flex: 1;
+        flex-direction: column;
+      }
+      .md-tab-content {
+        display: flex;
+        flex-direction: row;
+        flex: 1;
+      }*/
